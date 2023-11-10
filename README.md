@@ -12,6 +12,3 @@ For odometer data, the odometer needs to record the displacement data of a singl
 #### Run
 
 Run the program and see the results
-
-![image-20231110112843109](C:\Users\41375\AppData\Roaming\Typora\typora-user-images\image-20231110112843109.png)
-
