@@ -1,4 +1,4 @@
-# UKF+RTS
+# SA-MDF
 A matlab code for ukf+rts filter
 
 ### Using
